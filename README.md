@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Smita Bhattacharya</h1>
-<h2 align="center">
+<h4 align="center">
   I am a graduate student at <a href="https://saarland-informatics-campus.de/en/"> Saarland Informatics Campus</a> 
   in <a href="https://www.uni-saarland.de/en/home.html">Universität des Saarlandes (UdS)</a>
-  and a Graduate Research Assistant at
+  and a Research Assistant at
  <a href="https://www.uni-hildesheim.de/en/">Stiftung Universität Hildesheim</a>.  
   Here on GitHub you can find some projects I developed as a part of masters study and for my personal interest. 
-</h2>
+</h4>
+
+Previous positions:
+  - Master thesis student & Graduate Research Assistant at <a href= "https://www.dipf.de/en/frontpage?set_language=en"> Leibniz Institute for Research and Information in Education(DIPF)</a>
+  - Graduate Research Assistant at <a href="https://www.iais.fraunhofer.de/en.html"> Fraunhofer Institute for Intelligent Analysis and Information Systems(IAIS)</a>
+  - Data Analyst at <a href= "https://www.tcs.com/"> Tata Consultancy Services </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smita1908&label=Profile%20views&color=0e75b6&style=flat" alt="smita1908" /> </p>
 
-- 🌱 I’m currently learning **Explainable AI & Trusted and Ethical Learning Analytics**
+- 🌱 I’m currently learning **Retrieval Augmented Generation**
 
 - 👯 I’m looking to collaborate on **LLM projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Smita1908](https://github.com/Smita1908)
-
 - 💬 Ask me about **NLP, XAI**
 
-- 📫 How to reach me **study.smita19@gmail.com**
+- 📫 Reach me at: **study.smita19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
