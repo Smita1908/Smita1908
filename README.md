@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Smita Bhattacharya</h1>
-<h3 align="center">
+<h2 align="center">
   I am a graduate student at <a href="https://saarland-informatics-campus.de/en/"> Saarland Informatics Campus</a> 
   in <a href="https://www.uni-saarland.de/en/home.html">Universität des Saarlandes (UdS)</a>
   and a Graduate Research Assistant at
  <a href="https://www.uni-hildesheim.de/en/">Stiftung Universität Hildesheim</a>.  
   Here on GitHub you can find some projects I developed as a part of masters study and for my personal interest. 
-</h3>
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smita1908&label=Profile%20views&color=0e75b6&style=flat" alt="smita1908" /> </p>
 
