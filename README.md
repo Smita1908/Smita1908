@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smita Bhattacharya</h1>
 <h4 align="center">
-  I am a Junior Researcher at <a href="https://leibniz-hbi.de/en/research/research-programs/media-research-methods-lab/"> Media Research Methods Lab </a> of <a href="https://leibniz-hbi.de/en/institute/"> Leibniz Institute of Media Research | Hans Bredow Institute Campus</a>.
+  I am a Junior Researcher at <a href="https://leibniz-hbi.de/en/research/research-programs/media-research-methods-lab/"> Media Research Methods Lab </a> of <a href="https://leibniz-hbi.de/en/institute/"> Leibniz Institute of Media Research | Hans Bredow Institute</a>.
   Here on GitHub you can find some projects I developed as a part of my PhD, masters study and for my personal interest. 
 </h4>
 
