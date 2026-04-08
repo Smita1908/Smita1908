@@ -7,8 +7,8 @@
 
 Education:
   - [Present] Ph.D. Researcher in NLP for deliberative quality moderation in German media platforms, at <a href="https://leibniz-hbi.de/en/institute/">Leibniz Institute of Media Research | Hans Bredow Institute</a> 
-  - [Oct,2019 - July,2024] M.Sc. in Data Science & AI from <a href="https://saarland-informatics-campus.de/en/"> Saarland Informatics Campus</a> of <a href="https://www.uni-saarland.de/en/home.html">Universität des Saarlandes (UdS)</a>
-  - [Aug,2012 - June,2016] B.Tech in Information Technology from <a href="https://makautwb.ac.in/"> West Bengal University of Technology</a>
+ - M.Sc. in Data Science & AI from <a href="https://saarland-informatics-campus.de/en/"> Saarland Informatics Campus</a> of <a href="https://www.uni-saarland.de/en/home.html">Universität des Saarlandes (UdS)</a>
+  - B.Tech in Information Technology from <a href="https://makautwb.ac.in/"> West Bengal University of Technology</a>
   
 Previous positions:
   - Research Assistant at <a href="https://www.uni-hildesheim.de/en/">Stiftung Universität Hildesheim</a>
